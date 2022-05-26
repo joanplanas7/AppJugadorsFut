@@ -1,0 +1,26 @@
+
+
+#titolADF{
+    margin-left: 4%;
+    margin-right: 4%;
+    font-size: 50px;
+}
+
+.colorFons{
+    background-color: #F7D709;
+}
+
+.colorFonsInfo{
+    background-color: #C4DBD0;
+}
+
+.imgXarxes{
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-inline: 5px;
+}
